@@ -15,7 +15,7 @@ ReactJS + Tailwind + GSAP + Three.js
 
 ## Features
 
-1 . **Scrolling Animations:** The website uses the GSAP library to create smooth, visually appealing animations that are triggered by scrolling. This includes fading, scaling, and translating elements on the page. The animations are implemented in various components such as Features, Model, and HowItWorks using the animateWithGsap and animateWithGsapTimeline functions.
+1. **Scrolling Animations:** The website uses the GSAP library to create smooth, visually appealing animations that are triggered by scrolling. This includes fading, scaling, and translating elements on the page. The animations are implemented in various components such as Features, Model, and HowItWorks using the animateWithGsap and animateWithGsapTimeline functions.
 
 2. **Video Carousel:** The website features a video carousel that allows users to view different videos by scrolling. This is achieved using the GSAP library for the animations and React for managing the state of the carousel.
 
